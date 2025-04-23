@@ -82,8 +82,8 @@ export default function Home() {
             problem-solving and design.
           </p>
           <p>
-            Founded in 2023, we've quickly established ourselves as leaders in
-            creating engaging digital experiences that captivate audiences.
+            Founded in 2023, we&apos;ve quickly established ourselves as leaders
+            in creating engaging digital experiences that captivate audiences.
           </p>
           <button className="mt-8 bg-white text-black px-6 py-2 rounded-full font-medium">
             Learn More
